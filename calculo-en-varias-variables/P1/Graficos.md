@@ -6,7 +6,7 @@
 
 ---
 
-### Elipse: $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$
+#### Elipse: $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$
 
 ![Elipse](images/elipse.png)
 
@@ -14,9 +14,17 @@
 
 #### Parabola:
 
-### $y = a{x^2} + bx + c$ | $x = a{y^2} + by + c$
+### $x = y^2$
 
+![Parabola1](images/parabola_1.jpg)
 
+Lo mismo hacia la izquierda con $x = -y^2$
+
+### $y = x^2$
+
+![Parabola2](images/parabola_2.gif)
+
+Lo mismo hacia abajo con $y = -x^2$
 
 ---
 
