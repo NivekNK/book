@@ -1,12 +1,12 @@
 Para calcular el cuadrimomento del $\Lambda^0$ ($P_{\Lambda^0}$) en función de las masas y momentos de las partículas iniciales y finales, podemos utilizar las conservaciones de energía y momento en la colisión. En este caso, tenemos las siguientes cantidades:
 
-$m_{\pi}$: Masa del $\pi^+$.
-$m_{n}$: Masa del neutrón.
-$m_{K}$: Masa del $K^+$.
-$P_{\pi}$: Momento del $\pi^+$ antes de la colisión.
-$P_{n}$: Momento del neutrón antes de la colisión.
-$P_{K}$: Momento del $K^+$ después de la colisión.
-$P_{\Lambda^0}$: Momento del $\Lambda^0$ después de la colisión.
+* $m_{\pi}$: Masa del $\pi^+$.
+* $m_{n}$: Masa del neutrón.
+* $m_{K}$: Masa del $K^+$.
+* $P_{\pi}$: Momento del $\pi^+$ antes de la colisión.
+* $P_{n}$: Momento del neutrón antes de la colisión.
+* $P_{K}$: Momento del $K^+$ después de la colisión.
+* $P_{\Lambda^0}$: Momento del $\Lambda^0$ después de la colisión.
 Usaremos las siguientes relaciones de conservación de energía y momento en la colisión:
 
 Conservación de la energía:
